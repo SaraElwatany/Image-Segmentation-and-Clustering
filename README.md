@@ -40,7 +40,7 @@ The above repository includes our work from the previous tasks (Noising Image, D
 - Contains the images we used as samples in our project
 
 ## Report in pdf format
-- Task4_Report
+- Report 4
 
 ## Snapshots from our work
 
